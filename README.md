@@ -6,5 +6,3 @@
      2. The great and interesting Linux world.
 
 I'm not an advanced programmer just an enthusiast trying to learn and enjoy this huge link called GitHub.
-
-If you are interested on my Mathematics subjects, take a look at my website: https://www.ime.unicamp.br/~lara/
